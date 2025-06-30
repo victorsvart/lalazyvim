@@ -1,21 +1,22 @@
-# 💤 LaLazyVim
+# LaLazyVim
 
-A custom [LazyVim](https://github.com/LazyVim/LazyVim) configuration with extended support for multiple languages and workflows — including robust **Java development support**.
+A custom [LazyVim](https://github.com/LazyVim/LazyVim) configuration with extended support for multiple languages and workflows — including solid Java development support.
 
-## ✨ Features
+## Features
 
-- ⚙️ Built on top of LazyVim's starter template
-- ☕ Java development ready:
-  - Integrated [nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) via LazyVim extras
-  - Language server with code actions, diagnostics, hover docs, and more
-  - Debugging via DAP (Debug Adapter Protocol)
-  - Maven and Gradle support out-of-the-box
-- 🧠 LSP support for Go, Python, Lua, HTML, CSS, JS, TS, and TSX
-- 🎨 Modern UI, key mappings, and plugins preconfigured by LazyVim
-- 🧩 Easily extensible with additional Lazy extras
+- Based on LazyVim's starter template
+- Java development ready:
+  - Integrated [nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls)
+  - Language server with code actions, diagnostics, and hover documentation
+  - Debugging via DAP
+  - Maven and Gradle support included
 
-## 🚀 Getting Started
+I made some tweaks here and there with other stuff. Feel free to check it out.
 
-1. Clone the repo:
+## As simple as it gets
+
+1. Clone the repository:
+
    ```bash
    git clone git@github.com:victorsvart/lalazyvim.git ~/.config/nvim
+   ```
