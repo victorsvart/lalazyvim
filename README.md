@@ -1,4 +1,4 @@
-# LaLazyVim
+# lazyjava
 
 A custom [LazyVim](https://github.com/LazyVim/LazyVim) configuration with extended support for multiple languages and workflows — including solid Java development support.
 
